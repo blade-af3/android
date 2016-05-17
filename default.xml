@@ -496,6 +496,7 @@
   <project path="vendor/cm" name="CyanogenMod/android_vendor_cm" >
     <copyfile src="bootimage/Android.mk" dest="kernel/Android.mk" />
   </project>
-  <project path="device/zte/P731A20/" name="WinKarbik/android_device_zte_P731A20" revision="master" />
-  <project path="kernel/zte/P731A20/" name="WinKarbik/android_kernel_zte_P731A20" revision="master"/>
+  <project path="device/zte/P731A20/" name="blade-af3/android_device_zte_P731A20" revision="master" />
+  <project path="kernel/zte/P731A20/" name="blade-af3/android_kernel_zte_P731A20" revision="master"/>
+  <project path="vendor/zte/P731A20/" name="blade-af3/android_vendor_zte_P731A20" revision="master"/>
 </manifest>
