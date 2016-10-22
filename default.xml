@@ -499,5 +499,4 @@
   <project path="device/zte/P731A20/" name="blade-af3/android_device_zte_P731A20" revision="master" />
   <project path="kernel/zte/P731A20/" name="blade-af3/android_kernel_zte_P731A20" revision="master"/>
   <project path="vendor/zte/P731A20/" name="blade-af3/android_vendor_zte_P731A20" revision="master"/>
-  <project path="vendor/sprd/open-source/" name="blade-af3/android_vendor_sprd_open-source" revision="sprdb2g_gonk4.4"/>
 </manifest>
